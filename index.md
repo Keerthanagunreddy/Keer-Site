@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -26,7 +26,7 @@
    <h3> Education</h3>
    <ul>
      <li>
-       Tenth- ICSE:St.Joseph's Public School-94.5%
+       Tenth- ICSE :St.Joseph's Public School-94.5%
      </li>
      <li>
 Intermediate-TSBIE-98.7%
@@ -51,9 +51,9 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
           </tr>
        </table>
      </td>
-     <td>
+       <td>
        <table>
-      <tr>
+         <tr>
       <td> <a href="https://keerthanagunreddy.blogspot.com/Content">Content Writing</a></td>
       <td>⭐⭐⭐⭐⭐ </td>
     </tr>
@@ -66,7 +66,7 @@ Btech-Vasavi College of Engineering-9.3 Cgpa
  </tr>
 </table>
 <hr />
-</table cellspacing="10">
+<table cellspacing="10">
    <h3>Work Experience</h3>
    <table border="1px">
    <thead>
